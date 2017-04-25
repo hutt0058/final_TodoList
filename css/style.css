@@ -1,0 +1,41 @@
+.listItemGroup {
+  border: 1px solid #eee;
+  border-radius: 4px;
+}
+
+.listItemCheckbox {
+  cursor: default;
+}
+
+.completedItem {
+  text-decoration: line-through;
+  color: #999999;
+  cursor: default;
+}
+
+.completedItemGroup {
+  background-color: #f5f5f5;
+}
+
+#priority{
+ font-weight: 700;
+}
+
+.input-group{
+  margin-left:20px;
+  margin-right:20px;
+}
+
+
+.low{
+  color: green;
+  font-weight: 500;
+}
+
+.medium{
+  color:orange;
+}
+
+.high{
+  color:red;
+}
